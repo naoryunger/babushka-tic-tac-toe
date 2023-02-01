@@ -1,0 +1,15 @@
+.Board {
+  display: grid;
+  position: fixed;
+  justify-content: center;
+  align-items: center;
+  top: 50%;
+  left: 50%;
+  margin-top: -300px;
+  margin-left: -300px;
+  border: solid;
+  border-width: 5px;
+  border-color: rgb(111, 111, 129);
+  background-color: rgb(111, 111, 129);
+  grid-template-columns: 1fr 1fr 1fr;
+}

@@ -1,0 +1,10 @@
+.Cell {
+  width: 200px;
+  height: 200px;
+  border-color: black;
+  border: solid;
+  border-style: inset;
+  margin: 5px;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+}
